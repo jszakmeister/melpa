@@ -1,0 +1,2 @@
+(durendal :repo "technomancy/durendal"
+          :fetcher github)
